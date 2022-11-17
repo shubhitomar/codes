@@ -1,0 +1,22 @@
+#include<stdio.h>
+ int main()
+ {
+     int i,j,s,t;
+     printf("Enter the numbers");
+     scanf("%d %d",&s,&t);
+     for(i=0;i<s;i++)
+     {
+         for(j=s;j>i;j--)
+         {
+             printf(" ");
+         }
+         for(j=0;j<t;j++)
+         {
+             
+             printf("*");
+         
+        
+         }
+         printf("\n");
+     }
+ }
