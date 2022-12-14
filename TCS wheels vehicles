@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int v,w;
+    v=100;
+    w=300;
+    // v=number of vehicles, w=number of wheels
+    
+   int tw=((4*v)-w)/2;
+   if((w&1)||(w<2)||w<=v)
+   {
+       printf("Invalid input");
+       return 0;
+   }
+   printf("tw=%d \n",tw);
+   printf("fw=%d",v-tw);
+    
+}
