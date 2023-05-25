@@ -72,9 +72,9 @@
                                                 <li class="mouse-pos-list-image-inner design development interaction visible">
                             <div class="overlay overlay-image lazy" style="background-color: #101010; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/twitter.png"></div>                        </li>
                                                 <li class="mouse-pos-list-image-inner development interaction design visible">
-                            <div class="overlay overlay-image lazy" style="background-color: #0a0a0a; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/water.jpg"></div>                        </li>
+                            <div class="overlay overlay-image lazy" style="background-color: #0a0a0a; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/instagram.png"></div>                        </li>
                                                 <li class="mouse-pos-list-image-inner design development interaction visible">
-                            <div class="overlay overlay-image lazy" style="background-color: rgb(253, 148, 19), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96); background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/scenery.jpg"></div>                        </li>
+                            <div class="overlay overlay-image lazy" style="background-color: rgb(253, 148, 19), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96), 169, 96); background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/animated.png"></div>                        </li>
                                                 <li class="mouse-pos-list-image-inner design development visible">
                             <div class="overlay overlay-image lazy" style="background-color: rgb(12, 12, 12); background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/lights.jpg"></div>                        </li>
                                             </div>
@@ -265,9 +265,13 @@
                <div class="flex-col animate">
                   <p>Design & Development</p>
                </div>
-            </a>
          </li>
-                     <li class="development interaction design visible">
+        
+                    
+
+                 
+
+         <li class="development interaction design visible">
             <div class="stripe animate"></div>
             <a href="https://kn62j1.csb.app/" class="row">
                <div class="flex-col">
@@ -278,14 +282,16 @@
                </div>
             </a>
          </li>
+
+
                      <li class="design development visible">
             <div class="stripe animate"></div>
-            <a href="https://kn62j1.csb.app/" class="row">
+            <a href="http://127.0.0.1:5500/SHUBHI'S-ANIMATED-PROJECT/index.html" class="row">
                <div class="flex-col">
-                  <h4><span>Photography Portfolio</span></h4>
+                  <h4><span>Animated Character</span></h4>
                </div>
                <div class="flex-col animate">
-                  <p>Design & Photography</p>
+                  <p>Web Development</p>
                </div>
             </a>
          </li>
@@ -296,26 +302,53 @@
 <section class="section work-tiles work-tiles-home" data-scroll-section>
    <div class="container">
       <ul>
-                  <li class="design development interaction visible">
-            <div class="single-tile-wrap">
-               <a href="https://kn62j1.csb.app/" class="row">
-                  <div class="flex-col">
-                     <div class="tile-image">
-                        <div class="overlay overlay-image lazy" style="background-color: #101010; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/cabcold.jpg"></div>                     </div>
-                  </div>
-                  <div class="flex-col">
-                     <h4><span>Project</span></h4>
-                     <div class="stripe"></div>
-                  </div>
-                  <div class="flex-col">
-                     <p>Design & Development</p>
-                  </div>
-                  <div class="flex-col">
-                     <p>2023</p>
-                  </div>
-               </a>
-            </div>
-         </li>
+
+            <li class="design development interaction visible">
+                    <div class="single-tile-wrap">
+                       <a href="https://kn62j1.csb.app/" class="row">
+                          <div class="flex-col">
+                             <div class="tile-image">
+                                <div class="overlay overlay-image lazy" style="background-color: #101010; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/instagram.png"></div>                     </div>
+                          </div>
+                          <div class="flex-col">
+                             <h4><span>Project</span></h4>
+                             <div class="stripe"></div>
+                          </div>
+                          <div class="flex-col">
+                             <p>Design & Development</p>
+                          </div>
+                          <div class="flex-col">
+                             <p>2023</p>
+                          </div>
+                       </a>
+                    </div>
+                 </li>
+
+
+
+
+
+            <li class="design development interaction visible">
+                    <div class="single-tile-wrap">
+                       <a href="http://127.0.0.1:5500/SHUBHI'S-ANIMATED-PROJECT/index.html" class="row">
+                          <div class="flex-col">
+                             <div class="tile-image">
+                                <div class="overlay overlay-image lazy" style="background-color: #101010; background-position: center center; background-repeat: no-repeat; background-size: cover;" data-bg="img/animated.png"></div>                     </div>
+                          </div>
+                          <div class="flex-col">
+                             <h4><span>Animated character</span></h4>
+                             <div class="stripe"></div>
+                          </div>
+                          <div class="flex-col">
+                             <p>Web Development</p>
+                          </div>
+                          <div class="flex-col">
+                             <p>2023</p>
+                          </div>
+                       </a>
+                    </div>
+                 </li>
+
               
 
 
